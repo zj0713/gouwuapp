@@ -1,0 +1,38 @@
+.fl_content3{
+	width: 33.3333%;
+	height: 0.79rem;
+	float: left;
+	text-align: center;
+	line-height: 0.79rem;
+	font-size: 0.38rem;
+	color: #949494;
+	justify-content: space-around;
+}
+.fl_content4{
+	color: #fb9d9d;
+	border-bottom: 3px solid #fb9d9d;
+}
+.infor{
+	width: 100%;
+	padding: 0.24rem;
+	height: 16.09rem;
+	position: absolute;
+	top: 1.84rem;
+	left: 0;
+	display: flex;
+	flex-wrap: wrap;
+	overflow-y: scroll;
+}
+.infor_content{
+	width: 100%;
+	height: 4.83rem;
+	background: #ecf0ef;
+	display: flex;
+	flex-wrap: wrap;
+	float: left;
+}
+.infor_content img{
+	width: 100%;
+	height: 4.52rem;
+	float: left;
+}

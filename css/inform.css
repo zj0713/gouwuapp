@@ -1,0 +1,145 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.fx12{
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+.inform_content{
+    width: 100%;
+    height: auto;
+    margin-top: 1.05rem;
+}
+.inform_con1{
+    width: 100%;
+    height: auto;
+    float: left;
+}
+.inform_content .inform_img1{
+    width: 100%;
+    height: auto;
+}
+.inform_content p{
+    font-size: 0.40rem;
+    color: #9a9a9a;
+    margin: 0.3rem;
+    letter-spacing: 1px;
+    line-height: 0.65rem;
+}
+.inform_bottom{
+    width: 100%;
+    height: 1.05rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.inform_bottom1{
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+.inform_bottom1 h1{
+    width: 100%;
+    height: 50%;
+    display: block;
+    line-height: 0.55rem;
+    color: #fa9d8e;
+    font-family: 'iconfont';
+    font-size: 0.7rem;
+}
+.inform_bottom1 h2{
+    width: 100%;
+    height: 50%;
+    display: block;
+    line-height: 0.55rem;
+    color: #fa9d8e;
+    font-family: 'iconfont';
+    font-size: 0.55rem;
+}
+.inform_bottom1 h3{
+    width: 100%;
+    height: 50%;
+    display: block;
+    line-height: 0.55rem;
+    color: #fa9d8e;
+    font-size: 0.2rem;
+    font-weight: 300;
+}
+.inform_bottom1 h4{
+    width: 100%;
+    height: 50%;
+    display: block;
+    line-height: 0.7rem;
+    color: #fa9d8e;
+    font-size: 0.2rem;
+    font-weight: 300;
+}
+.inform_line{
+    width: 95%;
+    height: 0.02rem;
+    background-color: #ebebeb;
+    margin: 0 auto;
+}
+.number{
+    width: 0.9rem;
+    height: 0.9rem;
+    background-color: #ff9995;
+    border-radius: 0.45rem;
+    color: #ffffff;
+    font-size: 0.3rem;
+    text-align: center;
+    line-height: 0.9rem;
+    margin: 0.3rem 0.16rem 0 0.26rem;
+    float: left;
+}
+.inform_content h1{
+    font-size: 0.4rem;
+    color: #ff9995;
+    line-height: 0.9rem;
+    margin-top: 0.26rem;
+    letter-spacing: 2px;
+}
+.inform_content .inform_img2{
+    padding: 0.2rem;
+}
+.price{
+    width: 100%;
+    height: 1rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.8rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+}
+.price span{
+    width: 3rem;
+    height: 1rem;
+    color: #c52122;
+    font-size: 0.3rem;
+    display: block;
+    float: left;
+    line-height: 1rem;
+}
+.price .like{
+    height: 1rem;
+    color: #999999;
+    margin-left: 0.2rem;
+    font-size: 0.2rem;
+    font-family: 'iconfont';
+    line-height: 1rem;
+}
+.price .inform_infor{
+    width: 2rem;
+    height: 0.8rem;
+    text-align: center;
+    line-height: 0.8rem;
+    background: #ff9995;
+    display: block;
+    border-radius: 0.5rem;
+    color: #ffffff;
+    float: right;
+    margin-right: 1rem;
+}

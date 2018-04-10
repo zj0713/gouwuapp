@@ -1,0 +1,120 @@
+.login{
+    width: 100vw;
+    height: 100vh;
+    background-color: #f2f2f2;
+}
+.fx .fx_img1 img{
+    width: 0.38rem;
+    height: 0.52rem;
+}
+#text1{
+    width: 8.60rem;
+    height: 1.04rem;
+    position: relative;
+    margin: 0.65rem auto 0;
+}
+.text1{
+    width: 8.60rem;
+    height: 1.04rem;
+    padding-left: 0.3rem;
+    background-color: #ffffff;
+    display: block;
+    border-radius: 0.2rem;
+    border: 0.02rem solid #e7e7e7;
+    color: #e4e4e4;
+    font-size: 0.12rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#text2{
+    width: 8.60rem;
+    height: 1.04rem;
+    margin: 0.35rem auto 0;
+    padding-left: 0.3rem;
+    background-color: #ffffff;
+    display: block;
+    border-radius: 0.2rem;
+    border: 0.02rem solid #e7e7e7;
+    color: #e4e4e4;
+    font-size: 0.12rem;
+}
+.text1:focus,#text2:focus{
+    outline: none;
+}
+.btn{
+    width: 2.5rem;
+    height: 0.8rem;
+    background-color: #ff9995;
+    float: right;
+    position: absolute;
+    right: 0.1rem;
+    top: 0.1rem;
+    display: block;
+    border: none;
+    color: #fff;
+    font-size: 0.12rem;
+    border-radius: 0.1rem;
+}
+.btn:focus{
+    outline: none;
+}
+.submit{
+    width: 8.60rem;
+    height: 1.04rem;
+    margin: 0.8rem auto 0;
+    padding-left: 0.3rem;
+    display: block;
+    border-radius: 0.2rem;
+    background: #f2f2f2;
+    border: 0.02rem solid #ffbbba;
+    color: #ffbbba;
+    font-size: 0.4rem;
+}
+.submit:focus{
+    outline: none;
+}
+.login_bottom{
+    width: 100vw;
+    height: 12vh;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.login_bottomworld{
+    width: 100vw;
+    height: 0.7rem;
+    overflow: hidden;
+}
+.login_bottomworld span{
+    width: 30vw;
+    height: 0.7rem;
+    display: block;
+    font-size: 0.24rem;
+    color: #e5e5e5;
+    float: left;
+    text-align: center;
+    line-height: 0.7rem;
+}
+.login_line{
+    width: 35vw;
+    height: 0.02rem;
+    background: #e4e4e4;
+    float: left;
+    margin-top: 0.345rem;
+}
+.login_line1{
+    float: right;
+}
+.contact{
+    width: 50vw;
+    height: 0.8rem;
+    margin: 0.1rem auto 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.contact img{
+    width: 0.8rem;
+    height: 0.8rem;
+}
